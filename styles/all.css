@@ -8,12 +8,12 @@ html,
 body {
   line-height: 200%;
   color: #666;
-  background: #FBE9E7;
+  background: #e7d9bd;
   font-family: 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', Verdana, Roboto, 'Droid Sans', '游ゴシック', YuGothic, 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', sans-serif; }
 
 .global-header {
-  background-color: #f44336;
-  background: linear-gradient(#f21f0f, #f44336);
+  background-color: #d64030;
+  background: linear-gradient(#b93325, #d64030);
   box-shadow: 0 0 12px rgba(0, 0, 0, 0.4);
   margin-bottom: 36px;
   padding: 50px 24px 0;
@@ -28,7 +28,8 @@ body {
     text-shadow: 1px -1px rgba(0, 0, 0, 0.4);
     margin: 24px;
     text-align: center;
-    font-size: 20px; }
+    font-size: 20px;
+    color: #e7d9bd; }
 
 .global-nav {
   margin: auto;
@@ -79,14 +80,14 @@ main section {
     color: #165e83;
     font-weight: bold; }
     main section a:hover {
-      border-bottom: 1px dotted #f44336; }
+      border-bottom: 1px dotted #d64030; }
 
 #hobbies li,
 #skills li {
   display: inline-block;
   margin-bottom: 4px;
   border-radius: 4px;
-  background-color: #FFB74D;
+  background-color: #e7d9bd;
   padding: 0 8px;
   list-style: none; }
 
